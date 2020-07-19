@@ -1,0 +1,7 @@
+numpy
+pandas
+tensorflow
+matplotlib
+pandas-datareader
+jupyterlab
+tornado==5.1.1
